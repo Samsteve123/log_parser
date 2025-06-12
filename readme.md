@@ -1,4 +1,4 @@
-##Log Analyzer with Command Line Interface
+## Log Analyzer with Command Line Interface
 
 A Python tool to parse and summarize log files for error patterns, timestamps, and message frequency.
 
